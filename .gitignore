@@ -73,3 +73,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Content/Maps/NewSky_PolarFacilityMap.umap
+Content/Maps/OverviewMap.umap
+Content/InfinityBladeFireLands/Maps/Overview.umap
+Content/Maps/PolarFacilityMap.umap
+Content/InfinityBladeFireLands/Maps/Forge.umap
